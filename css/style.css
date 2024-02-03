@@ -7,14 +7,67 @@
 
 body{
 background-color: aquamarine;
+background-size: 1410px;
+
 }
 h1{
     text-align: center;
     font-family: quicksand
 }
 
+/* VERTICAL NAV MENU STYLING */
+/*
+.menu ul{
+list-style-type: none;
+background-color: dodgerblue;
+width: 115px;
+}
+/*
+.menu li a{
+    display: block; 
+   color: lightgreen;
+   padding-right: 16px;
+   padding-top: 16px;
+   padding-bottom: 16px;
+   text-decoration: none;
+   text-align: center;
+}
+
+/* change the link color on hover */
+/*
+.menu li a:hover{
+  background-color: aqua;  
+  color: beige;
+}
+
+/* HORIZONTAL NAV MENU STYLING */
 
 
+*{
+    margin: 0;
+    padding: 0%;
+}
+.menu ul{
+    list-style-type: none;
+    background-color: navy;
+    overflow: hidden;
 
+}
+
+.menu li{
+    float: left;
+}
+
+.menu li a{
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    background-color: lightsalmon;
+}
 
 
