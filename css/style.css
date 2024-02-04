@@ -7,13 +7,22 @@
 
 body{
 background-color: aquamarine;
-background-size: 1410px;
+background-repeat: no-repeat;
+height: 500px;
+background-size: cover;
+position: relative;
 
 }
 h1{
     text-align: center;
     font-family: quicksand
 }
+
+h3{
+  
+}
+
+
 
 /* VERTICAL NAV MENU STYLING */
 /*
