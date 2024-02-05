@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Moirai+One&family=Quicksand:wght@400;500&display=swap');
 
+@font-face{
+    src: url(../media/fonts/BUMBASTIKA.TTF);
+    font-family: bumbastika;
+}
+
+@font-face{
+    src: url(../media/fonts/RialtoNF.otf);
+    font-family: RialtoNF;
+}
+
+@font-face{
+    src: url(../media/fonts/GloriaHallelujah-Regular.ttf);
+    font-family: Gloria;
+}
 
 
 *{
@@ -20,14 +34,14 @@
 
 .menu li a{
     display: block;
-    color: aliceblue;
+    color: gold;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .menu li a:hover{
-    background-color: lightsalmon;
+    background-color: steelblue;
 }
 
 
@@ -38,4 +52,20 @@ body{
     background-size: cover;
     position: relative;
     
+    }
+
+    .menu li{
+        font-family: bumbastika;
+        padding-top: 10px;
+        padding-left: 20px;
+    }
+
+
+    h1{
+        text-align: center;
+    }
+
+    p{
+        font-family: gloria;
+        color: aliceblue;
     }
