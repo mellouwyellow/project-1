@@ -69,3 +69,12 @@ body{
         font-family: gloria;
         color: aliceblue;
     }
+
+    .Penguin{
+        display: block;
+        margin-left: 475px;
+        margin-right: auto;
+        margin-top: 300px;
+    margin-bottom: 10px;   
+     width: 8%;
+     }

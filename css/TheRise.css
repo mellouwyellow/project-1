@@ -75,3 +75,13 @@ p{
 font-family: gloria;
 color: aliceblue;
 }
+
+.puffle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: top 0;;
+margin-bottom: 10px;   
+ width: 8%;
+ }
+
