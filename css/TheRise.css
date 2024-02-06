@@ -61,7 +61,7 @@ background-position: center;
     margin-right: auto;
     margin-top: 100px;
     position: relative;
-    width: 10%;
+    width: 8%;
  }
 
  .menu li{
@@ -85,7 +85,7 @@ background-color: navy;
 .puffle{
     display: inline-block;
     margin-top: ;
-    margin-left: 600px;
+    margin-left: 100px;
     margin-bottom: ;
     margin-right: 80px;
     position: relative;
@@ -97,7 +97,7 @@ background-color: navy;
     display: block;
     margin-top: 100px;
     margin-left: 550px;
-    width: 15%;
+    width: 13%;
     position: relative;
  }
 
