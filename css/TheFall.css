@@ -63,6 +63,8 @@ body{
 
     h1{
         text-align: center;
+        font-family: gloria;
+        color: aliceblue;
     }
 
     p{
@@ -77,4 +79,10 @@ body{
         margin-top: 300px;
     margin-bottom: 10px;   
      width: 8%;
+     }
+
+     .Coffee{
+        display: block;
+        margin-left: 350px;
+     width: 3%;
      }
