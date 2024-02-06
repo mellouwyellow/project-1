@@ -69,14 +69,15 @@ body{
 
     p{
         font-family: gloria;
-        color: aliceblue;
+        color: white;
+        background-color: burlywood;
     }
 
     .Penguin{
         display: block;
         margin-left: 475px;
         margin-right: auto;
-        margin-top: 300px;
+        margin-top: 400px;
     margin-bottom: 10px;   
      width: 8%;
      }
@@ -86,3 +87,4 @@ body{
         margin-left: 350px;
      width: 3%;
      }
+

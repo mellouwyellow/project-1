@@ -44,9 +44,12 @@
 }
 
 body{
-    background-color: white;
+    background-color: aliceblue;
     background-size: 1450px;
 background-repeat: no-repeat;
+position: relative;
+background-position: center;
+
     
     
     
@@ -56,7 +59,8 @@ background-repeat: no-repeat;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 300px;
+    margin-top: 100px;
+    position: relative;
     width: 10%;
  }
 
@@ -68,21 +72,32 @@ background-repeat: no-repeat;
 
 h1{
     text-align: center;
-    color: aliceblue;
+    color: white;
     font-family: gloria;
 }
 
 p{
 font-family: gloria;
-color: aliceblue;
+color: white;
+background-color: cornflowerblue;
 }
 
 .puffle{
+    display: inline-block;
+    margin-top: ;
+    margin-left: 600px;
+    margin-bottom: ;
+    margin-right: 80px;
+    position: relative;
+ width: 10%;
+ }
+
+
+ .penguin{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-margin-bottom: 10px;   
- width: 8%;
+    margin-top: 100px;
+    margin-left: 550px;
+    width: 15%;
+    position: relative;
  }
 

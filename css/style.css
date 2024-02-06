@@ -34,7 +34,10 @@ h1{
 }
 
 h3{
-    font-family: Gloria
+    font-family: Gloria;
+    position: relative;
+    position: bottom;
+
 }
 
 
@@ -102,15 +105,17 @@ width: 115px;
 
 p{
     font-family: gloria;
-    color: aliceblue;
+    color: black;
+    position: bottom;
+    background-color: cornflowerblue;
 }
 
 .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 350px;
-    width: 11%;
+    margin-top: 600px;
+    width: 15%;
  }
 
 
